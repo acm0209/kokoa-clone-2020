@@ -8,8 +8,10 @@
 @import "components/screen-header.css";
 @import "components/user-component.css";
 @import "components/badge.css";
+@import "components/point.css";
 /* Screens */
 @import "screens/login.css";
+@import "screens/find.css";
 @import "screens/friends.css";
 
 body {
